@@ -18,7 +18,7 @@ public class ClasePersona2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Tercer Commit");
+        System.out.println("Cuarto Commit");
     }
     
 }
